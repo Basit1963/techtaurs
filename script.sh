@@ -28,6 +28,7 @@ echo
 echo
 echo "I will go ahead and make your wishes come through"
 #write a case statement that will perform any action that the user picks
+echo Will you like to make another transaction
 echo done!
 
 
